@@ -27,6 +27,7 @@ int main()
 		par[i] = i ;
 	unionfun(1, 2);
 	unionfun(1, 3);
-	cout<<par[3]<<endl;
+	cout<<par[3]<<endl; // output will be 1. 
+	cout<<par[2]<<endl; //output will be 1.
 	return 0;
 }
