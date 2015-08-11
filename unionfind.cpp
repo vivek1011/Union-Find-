@@ -1,6 +1,6 @@
 /*
 Initially everybody is owner of itself.
-If you want to chane the ownership then call unionfun function and it will merge two sets
+If you want to change the ownership then call unionfun function and it will merge two sets
 and make their common parent.
 Now you can find out the ownership using find function. 
 Problem Link - https://www.codechef.com/problems/DISHOWN
